@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+:root {
+  --font-family: 'Manrope', sans-serif;
+
+  --gradient-text: linear-gradient(90deg, #EE82EE 0%, #00D1FF 100%);
+  --gradient-bar: linear-gradient(90deg, #EE82EE 0%, #00D1FF 100%);
+  
+  --color-bg: #000000;
+  --color-footer : #80002d;
+  --color-blog: #4d001b;
+  --color-text: #81AFDD;
+  --color-subtext: #FF8A71;
+}
