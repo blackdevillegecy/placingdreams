@@ -14,6 +14,10 @@ function WhatGPT3() {
         <img src={img2} alt="" />
         <img src={img3} alt="" />
       </div>
+      <div className="buttons">
+        <div><button>Alumni List</button></div>
+        <div><button>Google Reviews</button></div>
+      </div>
     </div>
   );
 }

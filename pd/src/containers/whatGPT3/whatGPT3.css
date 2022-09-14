@@ -10,14 +10,24 @@
 
 }
 
-.img2{
-    justify-content: center;
+.img2, .buttons{
+    justify-content: space-around;
     align-items: center;
     position: relative;
     display: flex;
-    flex: 30%;
     margin-top: 10vh;
+}
 
+.buttons {
+    border: 1px solid red;
+}
+
+.buttons div {
+    border: 1px solid red;
+}
+
+.img2 img {
+    border: 1px solid red;
 }
 
 .img2 img{
