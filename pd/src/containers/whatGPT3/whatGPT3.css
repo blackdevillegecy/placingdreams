@@ -1,3 +1,7 @@
+#gallery {
+    /* border: 1px solid red; */
+}
+
 .img{
     margin: auto;
     position: relative;
@@ -19,15 +23,49 @@
 }
 
 .buttons {
-    border: 1px solid red;
+    /* border: 1px solid red; */
+}
+
+.textbelow {
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.textbelow div {
+    color: #fff;
+    /* border: 1px solid red; */
+
 }
 
 .buttons div {
-    border: 1px solid red;
+    /* border: 1px solid red; */
+}
+
+.buttons-btn {
+    height: 6vh;
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 17px;
+    background: #fc035a;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
+
+#list {
+    width: 150px;
+    
+}
+
+#reviews {
+    width: 188px;
 }
 
 .img2 img {
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .img2 img{
@@ -49,6 +87,18 @@
     }
 }
 
+@media screen and (max-width: 900px) {
+    .textbelow div {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .textbelow div {
+        font-size: 12px;
+    }
+}
+
 @media screen and (max-width: 667px) {
     .img img {
       display: none;
@@ -59,5 +109,26 @@
         display: grid;
         justify-content: center;
         max-width: 40vw;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .textbelow div {
+        font-size: 9px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .buttons {
+        display: block;
+        /* border: 1px solid red; */
+        justify-content: center;
+        align-items: center;
+    }
+
+    .buttons div {
+        width: fit-content;
+        margin: auto;
+        margin-bottom: 4vh;
     }
 }

@@ -14,9 +14,13 @@ function WhatGPT3() {
         <img src={img2} alt="" />
         <img src={img3} alt="" />
       </div>
+      <div className="textbelow">
+        <div style={{ textAlign: 'center' }}>Appreciation letter from Swinburne <br /> University Australia and put Jio wala</div>
+        <div>Association with Jio Studio</div>
+      </div>
       <div className="buttons">
-        <div><button>Alumni List</button></div>
-        <div><button>Google Reviews</button></div>
+        <div><button className='buttons-btn' id="list" style={{ marginLeft: '38px' }}>Alumni List</button></div>
+        <div><button className='buttons-btn' id="reviews" style={{ marginLeft: '38px' }}>Google Reviews</button></div>
       </div>
     </div>
   );
