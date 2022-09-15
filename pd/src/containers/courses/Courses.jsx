@@ -17,6 +17,7 @@ function Courses() {
           <Feature title="Acting" text="The most in-demand skill in the industry" link="/acting" />
           <Feature title="Editing" text="Learn the intricate ways of presentation and refining of the content in the entertainment world" link="/editing" />
           <Feature title="Film Making" text="Understand how to develop the 'vision' which is required to craft the once in a lifetime masterpieces" link="/filmmaking" />
+          <Feature title="Writing" text="Become the best in the wizardry of words and forge the classics the future generations will remember" link="/writing" />  
         </div>
       </div>
     </div>

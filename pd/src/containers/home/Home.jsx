@@ -10,11 +10,11 @@ function Home() {
         <Navbar />
         <Header />
       </div>
+      <CTA />
       <WhatGPT3 />
       <Possibility />
       <Features />
       <Courses />
-      <CTA />
       <Blog />
       <Footer />
     </>

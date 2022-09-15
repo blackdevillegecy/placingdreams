@@ -14,7 +14,7 @@ const Header = () => (
       </div>
 
       <div className="gpt3__header-content__people">
-        <p>More than 1000 success stories says it all</p>
+        <p>More than 100 success stories says it all</p>
       </div>
     </div>
     <div>

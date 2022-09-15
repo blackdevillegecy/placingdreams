@@ -171,6 +171,10 @@
 .InstagramIcon:hover{
     color: rgb(214, 22, 205);
 }
+
+.fbIcon:hover{
+color: aqua;
+}
 .mobile{
     /* border: 2px solid red; */
     color: #fff;
