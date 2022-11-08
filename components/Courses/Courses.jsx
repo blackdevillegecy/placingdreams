@@ -4,7 +4,7 @@ import styles from './Courses.module.css'
 
 function Courses() {
   return (
-    <div id={styles.wgpt3} style={{ paddingTop: '2.5rem' }}>
+    <div id="features" style={{ paddingTop: '2.5rem' }} >
       <div className={[styles.gpt3__whatgpt3, styles.section__margin].join(" ")}>
         <div className={styles.gpt3__whatgpt3_feature}>
           <Feature title="What Courses do we offer?" text="Decide what's the best for you" link="/" />

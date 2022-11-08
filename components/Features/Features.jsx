@@ -25,7 +25,7 @@ const featuresData = [
 ];
 
 const Features = () => (
-  <div className={[styles.gpt3__features, styles.section__padding].join(" ")} id="features">
+  <div className={[styles.gpt3__features, styles.section__padding].join(" ")} >
     <div className={styles.gpt3__features_heading}>
       <h1 className={styles.gradient__text}>On-Shoot Training Programme for the first time in India</h1>
       <p>Creating A Better Artist; A Better Entertainer</p>

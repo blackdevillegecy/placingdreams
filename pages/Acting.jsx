@@ -3,9 +3,8 @@ import Image from 'next/image'
 function Acting() {
   return (<div className='body2'>
     <div className='overall'>
-      <p>Duis irure sunt ex consequat sunt nisi ex in pariatur est nostrud ad reprehenderit esse. Amet ad dolore nostrud amet laboris ullamco consectetur consectetur laboris. Eu eiusmod occaecat nulla mollit proident dolore proident dolor. Excepteur tempor sunt minim duis mollit quis labore aliquip
-Duis aute eiusmod esse mollit non dolor aliquip esse adipisicing dolor laboris dolor. Id sint enim amet magna anim anim mollit enim. Lorem ex et ad cillum est laborum officia sit cillum aliquip elit exercitation aute. Aliquip sit ex nostrud voluptate nisi et minim velit magna aliqua cillum id tempor in. Reprehenderit aute veniam laboris fugiat sunt nisi consequat labore tempor. Sit exercitation ut ea exercitation nulla nostrud veniam ex magna dolore nisi.Acting is the art form which can transcend all the barriers of the world we live in, dead can be brought back to life, non existent thoughts can be made real.</p>
-      <h1 className='main'>Acting Syllabus<br/><br/></h1>
+      <p></p>
+      <h1 className='main' style={{background: 'linear-gradient(90deg, #EE82EE 0%, #00D1FF 100%)', backgroundClip: 'text', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}>Acting Syllabus<br/><br/></h1>
       <Image src="/features/acting.jpeg" alt ='' width="700" height="350" />
       <h4> Module 1</h4>
       <p>Awareness <br/><br/>
