@@ -44,7 +44,7 @@
 }
 
 .gpt3__features_container {
-    flex: 50%;
+    flex: 80%;
     display: flex;
     justify-content: flex-start;
     align-items: center;

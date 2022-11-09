@@ -13,6 +13,7 @@
     flex: 1;
     /* max-width: 180px; */
     /* border: 1px solid red; */
+    margin-right: 5vh;
     width: fit-content;
 }
 
@@ -45,7 +46,7 @@
 
 .gpt3__features_container_feature_text {
     flex: 2;
-    max-width: 390px;
+    max-width: 260px;
     display: flex;
 }
 
@@ -54,6 +55,8 @@
     font-weight: 500;
     font-size: 14px;
     line-height: 24px;
+    /* border: 1px solid red; */
+    align-self: flex-end;
     color: var(--color-text);
 }
 
