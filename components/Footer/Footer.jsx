@@ -1,6 +1,7 @@
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import FacebookIcon from '@mui/icons-material/Facebook';
+import YouTubeIcon from '@mui/icons-material/YouTube';
 import styles from "./Footer.module.css";
 import Image from 'next/image';
 
@@ -18,9 +19,10 @@ function Footer() {
       </div>
       <div className={styles.gpt3__footer_links_div}>
         <div className={styles.linkers}>
-          <p><WhatsAppIcon className={styles.WhatsAppIcon} onClick={() => window.open('https://wa.me/919987851716')} style={{ fontSize: 50, alignContent: 'center', display: 'flex', marginRight: 25 }} /></p>
-          <p><InstagramIcon className={styles.InstagramIcon} onClick={() => window.open('https://instagram.com/placingdreams?igshid=YmMyMTA2M2Y=')} style={{ fontSize: 50, marginRight: 20  }} /></p>
-          <p><FacebookIcon className={styles.fbIcon} onClick={() => window.open('https://www.facebook.com/placingdreamsinstitute/')} style={{ fontSize: 50 }} /></p>
+          <p><WhatsAppIcon className={styles.WhatsAppIcon} onClick={() => window.open('https://wa.me/919987851716')} style={{ fontSize: 50, alignContent: 'center', display: 'flex', marginRight: 15 }} /></p>
+          <p><InstagramIcon className={styles.InstagramIcon} onClick={() => window.open('https://instagram.com/placingdreams?igshid=YmMyMTA2M2Y=')} style={{ fontSize: 50, marginRight: 15 }} /></p>
+          <p><FacebookIcon className={styles.fbIcon} onClick={() => window.open('https://www.facebook.com/placingdreamsinstitute/')} style={{ fontSize: 50, marginRight: 15 }} /></p>
+          <p><YouTubeIcon onClick={() => {window.open('https://www.youtube.com/channel/UCJ7oHU8Gau1MS7fJHAb7WuA')}} style={{ fontSize: 50, marginRight: 15 }} /></p>
           <h3 className={styles.mobile}> Mobile 9987851716 </h3>
         </div>
       </div>

@@ -2,7 +2,8 @@
     width: 100%;
     flex-direction: row;
     /* border: 1px solid red; */
-    padding: 15vh ;
+    padding: 5vh;
+    
 
 }
 .gradient__text {
@@ -29,6 +30,7 @@
     font-weight: 800;
     font-family: var(--font-family);
     /* border: 1px solid red; */
+
 }
 
 .gpt3__features_heading p {

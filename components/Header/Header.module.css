@@ -12,6 +12,8 @@
     width: 60%;
     margin-top: 25vh;
     padding: 0 2.5vw;
+    /* border: 1px solid red; */
+
 }
 
 .gpt3__header_content h1 {
@@ -126,10 +128,6 @@
 
 @media screen and (max-width: 1050px) {
 
-    .gpt3__header_content {
-        margin: 20vh 0 0 3rem;
-    }
-
     #neon {
         display: none;
     }
@@ -151,6 +149,10 @@
     #neon {
         display: none;
     }
+
+    .gpt3__header_content {
+        width: 50%;
+    }
 }
 
 @media screen and (max-width: 650px) {
@@ -162,6 +164,7 @@
     .gpt3__header_content {
         margin: auto;
         padding-top: 20vh;
+        width: 90%;
     }
 
     .gpt3__header_content h1 {

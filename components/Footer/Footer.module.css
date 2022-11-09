@@ -4,7 +4,7 @@
     justify-content: center;
     align-items: center;
     background: var(--color-footer);
-    padding: 15vh;
+    padding: 5vh;
     margin-top: 1.5vh;
 }
 
@@ -20,6 +20,7 @@
     font-size: 64px;
     line-height: 75px;
     text-align: center;
+    /* border: 1px solid red; */
 }
 .gpt3__footer-btn {
     display: flex;
@@ -192,11 +193,19 @@
     animation: s;
 }
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 400px) {
     .linkers {
         display: grid;
+        grid-row: 2;
         justify-content: center;
     }
+}
+
+@media screen and (max-width: 300px) {
+    /* .linkers {
+        display: grid;
+        justify-content: center;
+    } */
     .mobile {
         text-align: center;
     }
