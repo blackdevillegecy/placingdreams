@@ -1,9 +1,11 @@
-
+import ArrowBackIcon from '@mui/icons-material/ArrowBack';
+import Link from 'next/link';
 
 function Alumni() {
   return (
     <div>
         <div className='overall'>
+        <Link href="/"><ArrowBackIcon style={{marginTop: '2vh', marginLeft: '2vh', color: 'white'}} /></Link>
       <h1 className='main'>List of Alumni<br/><br/></h1>
     <p>
     1)Nitesh Singh,​-veera ​(Beyond Dreams)​​Direction​​<br/><br/>

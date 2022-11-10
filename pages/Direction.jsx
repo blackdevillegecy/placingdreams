@@ -1,7 +1,10 @@
 import Image from 'next/image'
+import ArrowBackIcon from '@mui/icons-material/ArrowBack';
+import Link from 'next/link';
 
 function Acting() {
   return (<div className='body2'>
+       <Link href="/"><ArrowBackIcon style={{marginTop: '2vh', marginLeft: '2vh', color: 'white'}} /></Link>
     <div className='overall'>
     <h1 className='main' style={{background: 'linear-gradient(90deg, #EE82EE 0%, #00D1FF 100%)', backgroundClip: 'text', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}>Direction<br/><br/></h1>
       <p>A Director is a story -Teller. He takes the Script and transform it into a visual experience. He has to have an in-depth understanding of Screenwriting, Acting, Cinematography, Editing, Sound, Production in process of a film making.</p><br/><br/>

@@ -1,7 +1,10 @@
 import Image from 'next/image'
+import ArrowBackIcon from '@mui/icons-material/ArrowBack';
+import Link from 'next/link';
 
 function Acting() {
   return (<div className='body2'>
+    <Link href="/"><ArrowBackIcon style={{marginTop: '2vh', marginLeft: '2vh', color: 'white'}} /></Link>
     <div className='overall'>
     <h1 className="main" style={{background: 'linear-gradient(90deg, #EE82EE 0%, #00D1FF 100%)', backgroundClip: 'text', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}>Acting<br/><br/></h1>
       <p>An Actor`&apos;`s job is to convey a feeling from the screen to the audience in a way that the audience feel a sense of connection with the character, be it positive or negative. To perfect their craft an actor requires the knowledge of human psychology, physiology and emotions.</p><br/><br/>
