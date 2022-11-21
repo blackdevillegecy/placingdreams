@@ -75,3 +75,27 @@ h4 {
   color:#00D1FF
   
 }
+
+.course_nav {
+  height: 10vh;
+  /* border: 1px solid blue; */
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.courses_btn {
+  font-family: 'Manrope', sans-serif;
+  color: white;
+  font-weight: bold;
+  padding: 1vw;
+  margin: 0 0 0 0.5vw;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 500px) {
+  .course_nav {
+    display: none;
+  }
+}

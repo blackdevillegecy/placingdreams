@@ -17,7 +17,7 @@ function Navbar() {
           <p><a href="#header">Home</a></p>
           <Link href="/Gallery"><p>Gallery</p></Link>
           <p><a href="#possibility">About Us</a></p>
-          <p><a href="#features">Courses</a></p>
+          <Link href="/Course"><p>Courses</p></Link>
           <p><a href="#blog">Testimonials</a></p>
         </div>
       </div>
@@ -35,7 +35,7 @@ function Navbar() {
               <p><a href="#header">Home</a></p>
               <Link href="/Gallery"><p>Gallery</p></Link>
               <p><a href="#possibility">About Us</a></p>
-              <p><a href="#features">Courses</a></p>
+              <Link href="/Course"><p>Courses</p></Link>
               <p><a href="#blog">Testimonials</a></p>
             </div>
             <div className={styles.gpt3__navbar_menu_container_links_sign}>

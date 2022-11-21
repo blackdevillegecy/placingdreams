@@ -4,7 +4,17 @@ import Link from 'next/link';
 
 function Acting() {
   return (<div className='body2'>
+    <div style={{display: 'flex'}}>
     <Link href="/"><ArrowBackIcon style={{marginTop: '2vh', marginLeft: '2vh', color: 'white'}} /></Link>
+    <div className="course_nav">
+      <Link href="\Acting"><div className="courses_btn">Acting</div></Link>
+      <Link href="\Writing"><div className="courses_btn">Writing</div></Link>
+      <Link href="\Editing"><div className="courses_btn">Video Editing</div></Link>
+      <Link href="\Direction"><div className="courses_btn">Direction</div></Link>
+      <Link href="\FilmMaking"><div className="courses_btn">Film Making</div></Link>
+    </div>
+    </div>
+    
     <div className='overall'>
     <h1 className="main" style={{background: 'linear-gradient(90deg, #EE82EE 0%, #00D1FF 100%)', backgroundClip: 'text', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}>Acting<br/><br/></h1>
       <p>An Actor`&apos;`s job is to convey a feeling from the screen to the audience in a way that the audience feel a sense of connection with the character, be it positive or negative. To perfect their craft an actor requires the knowledge of human psychology, physiology and emotions.</p><br/><br/>

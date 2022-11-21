@@ -4,7 +4,16 @@ import Link from 'next/link';
 
 function Acting() {
   return (<div className='body2'>
-       <Link href="/"><ArrowBackIcon style={{marginTop: '2vh', marginLeft: '2vh', color: 'white'}} /></Link>
+       <div style={{display: 'flex'}}>
+    <Link href="/"><ArrowBackIcon style={{marginTop: '2vh', marginLeft: '2vh', color: 'white'}} /></Link>
+    <div className="course_nav">
+      <Link href="\Acting"><div className="courses_btn">Acting</div></Link>
+      <Link href="\Writing"><div className="courses_btn">Writing</div></Link>
+      <Link href="\Editing"><div className="courses_btn">Video Editing</div></Link>
+      <Link href="\Direction"><div className="courses_btn">Direction</div></Link>
+      <Link href="\FilmMaking"><div className="courses_btn">Film Making</div></Link>
+    </div>
+    </div>
     <div className='overall'>
     <h1 className='main' style={{background: 'linear-gradient(90deg, #EE82EE 0%, #00D1FF 100%)', backgroundClip: 'text', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}>Direction<br/><br/></h1>
       <p>A Director is a story -Teller. He takes the Script and transform it into a visual experience. He has to have an in-depth understanding of Screenwriting, Acting, Cinematography, Editing, Sound, Production in process of a film making.</p><br/><br/>
