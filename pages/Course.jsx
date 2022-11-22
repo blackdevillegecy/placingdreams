@@ -1,9 +1,11 @@
 import styles from '../styles/Course.module.css';
+import ArrowBackIcon from '@mui/icons-material/ArrowBack';
 import Link from 'next/link';
 
 function Course() {
     return (
         <div className={styles.page}>
+            <Link href="\"><ArrowBackIcon style={{marginTop: '2vh', marginLeft: '2vh', color: 'white'}} /></Link>
             <div className={styles.main}>
                 <Link href="\Acting"><div className={styles.courses}>Acting</div></Link>
                 <Link href="\Writing"><div className={styles.courses}>Writing</div></Link>

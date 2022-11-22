@@ -6,7 +6,7 @@ function Editing() {
   return (
     <div className='body2'>
       <div style={{display: 'flex'}}>
-    <Link href="/"><ArrowBackIcon style={{marginTop: '2vh', marginLeft: '2vh', color: 'white'}} /></Link>
+    <Link href="\Course"><ArrowBackIcon style={{marginTop: '2vh', marginLeft: '2vh', color: 'white'}} /></Link>
     <div className="course_nav">
       <Link href="\Acting"><div className="courses_btn">Acting</div></Link>
       <Link href="\Writing"><div className="courses_btn">Writing</div></Link>
