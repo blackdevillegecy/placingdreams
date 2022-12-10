@@ -18,10 +18,10 @@ function Editing() {
     <div className='overall'>
     <h1 className='main' style={{background: 'linear-gradient(90deg, #EE82EE 0%, #00D1FF 100%)', backgroundClip: 'text', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}>Film Editing<br/><br/></h1>
       <p>The person who brings a movie or television show to life is a film editor. The story, tone, and overall impact of a movie are all shaped by the editor just as much as they are by the director or author. Because of this, talented editors are in high demand in the movie business.</p>
-      <h4>Career in Film Editing</h4>
+      <h4>Career in Film Editing</h4><br/>
       <p>The current focus on content creation have made the demand for video editors to be more than ever before. The job of an editor is complex and demanding. Despite the fierce competition, there are many chances in the area, particularly in India. In addition to production companies, news outlets, movie studios, and numerous businesses hire video editors. Strong abilities are necessary to survive the competition in a highly rewarding profession like video editing.
         At Placing Dreams, every student and nurtured to become the best version of themselves and are expected to become the best in the industry. Students get several opportunities to work as interns for big production houses and get a secure job in this field.  The syllabus followed at the institute is handcrafted by the experts in the industry and tries to shed light on all the dark corners which might be left in the courses by other institutions.
-      </p>
+      </p><br/>
       <h1 className='main' style={{background: 'linear-gradient(90deg, #EE82EE 0%, #00D1FF 100%)', backgroundClip: 'text', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}>Syllabus<br/><br/></h1>
       <Image src="/features/editing.jpeg" alt="" width="700" height="350" />
       <p>1. WHAT ‘EDITING’ IS?<br/><br/>

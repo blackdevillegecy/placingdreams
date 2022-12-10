@@ -16,12 +16,12 @@ function FilmMaking() {
     </div>
     </div>
        <h1 className='main' style={{background: 'linear-gradient(90deg, #EE82EE 0%, #00D1FF 100%)', backgroundClip: 'text', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}>Film Making<br/><br/></h1>
-      <br/><br/>
-      <h4> A Peek into the Film Making Course</h4>
+      <br/>
+      <h4> A Peek into the Film Making Course</h4><br/>
       <p>Film Making is a perfect soup which has the flavor of all other courses in the right amount. Students are taught about acting and all the technicalities related to the art, Then the course also focuses on the way of direction and the study of the job in detail
         The course will also take a dive in the fields of writing and editing, hence, covering all the ingredients required to create the next masterpiece for the world to see. By taking this course a student can expect to be well versed in the ins and outs of the industry and along with the knowledge
         they will also be gaining practical knowledge through different on-site internships focusing on the actual workflow and the way tasks are handeled on the ground level.
-      </p>
+      </p><br/>
        <Image src="/features/direction.jpeg" alt="" width="700" height="350" />
                                    
     </div>

@@ -15,7 +15,7 @@ function Writing() {
     </div>
     </div>
     <div className='overall'>
-    <h1 className='main' style={{background: 'linear-gradient(90deg, #EE82EE 0%, #00D1FF 100%)', backgroundClip: 'text', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}>Writing<br/><br/></h1>
+    <h1 className='main' style={{background: 'linear-gradient(90deg, #EE82EE 0%, #00D1FF 100%)', backgroundClip: 'text', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}>Writing<br/></h1>
     <p>A writer creates material for visual media. For television, advertisements, video games, feature films, short films, and other media, they compose screenplays. A script`&apos;`s dialogue, characters, and plot are created by them.</p>
     <h4>Career in Writing</h4>
     <p>Screenwriting is one of the most lucrative career in the recent times and hence the film city is seeing a rapid growth in the number of people trying to get a grasp in this field. Screenwriting is an art which requires imagination, every decision made by them can completely
