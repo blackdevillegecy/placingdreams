@@ -22,10 +22,10 @@ function Acting() {
       <h4>Career in Acting</h4>
       <p>Most of the people who come to the city of Mumbai initially start with acting. Acting is a highly competative field and hence, the stakes are high, but, one should not get disheartned by this as with the exponential growth of the film industry 
       there are new opportunities bubbling up everywhere. There auditions going everywhere in the city, so, the real job for an actor is to be best version of themselves and there success will be inevitable. To perfect their art, an actor need to put a lot
-      of sweat and hours, thats where the difference can be observed between the people who `&apos;`WANT`&apos;` it and the ones who `&quot;`GET`&quot;` it. Acting can be a challenging and competitive field, as there are often many talented actors vying for
+      of sweat and hours, thats where the difference can be observed between the people who &apos;WANT&apos; it and the ones who &quot;GET&quot; it. Acting can be a challenging and competitive field, as there are often many talented actors vying for
       the same roles. However, for those who are dedicated and hardworking, acting can also be a fulfilling and rewarding career. Actors have the opportunity to bring joy and entertainment to audiences, and to explore and express the full range of human emotions through their art.
       Acting is a form of storytelling that allows actors to bring characters and their stories to life. It requires a high level of emotional intelligence and the ability to empathize with a wide range of characters and personalities. Actors need to be able to interpret scripts and
-       understand their characters' motivations, goals, and obstacles, and then bring those characters to life through their performances.
+       understand their characters&apos; motivations, goals, and obstacles, and then bring those characters to life through their performances.
       To become an actor, one typically needs to have a passion for storytelling and a willingness to take risks and try new things. Acting also requires a certain level of physical and emotional vulnerability, as actors must be open and honest in their performances in order to connect 
       with their characters and audiences.
       Training and education are important for actors, as they need to learn various techniques and skills in order to excel in their craft. 

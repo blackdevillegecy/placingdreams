@@ -24,7 +24,7 @@ function Editing() {
 
 The editor is responsible for taking all the raw footage shot by the director and the cinematographer and turning it into a cohesive, compelling story. This involves selecting the best takes, cutting and arranging the footage in the right order, and adding sound effects and music to create a complete audiovisual experience.
 
-A skilled editor can make the difference between a mediocre film and a great one. They have the ability to take disparate elements and weave them together into a seamless whole, bringing the director's vision to life on screen.
+A skilled editor can make the difference between a mediocre film and a great one. They have the ability to take disparate elements and weave them together into a seamless whole, bringing the visionof director to life on screen.
 
 In addition to their creative contributions, editors also play a key role in the technical aspects of film production. They are responsible for maintaining the continuity of the film, ensuring that the actions and events portrayed on screen are consistent from one shot to the next. This is essential for creating a believable and engaging story.
 
@@ -37,7 +37,7 @@ In short, an editor is a vital member of the movie-making team. Their creativity
       <h1 className='main' style={{background: 'linear-gradient(90deg, #EE82EE 0%, #00D1FF 100%)', backgroundClip: 'text', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}>Syllabus<br/><br/></h1>
       <Image src="/features/editing.jpeg" alt="" width="700" height="350" />
       <p>1. WHAT ‘EDITING’ IS?<br/><br/>
-2.HISTORY OF CINEMA & EDITING<br/><br/>
+2.HISTORY OF CINEMA & EDITING<br/><br/> 0
 3. ROLE OF EDITOR IN A FILM CREW<br/><br/>
 4. BASIC PRINCIPLES OF EDITING<br/><br/>
 5. TYPES OF EDITING<br/><br/>
