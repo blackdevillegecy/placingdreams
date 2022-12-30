@@ -23,7 +23,7 @@ function Navbar() {
         </div>
       </div>
       <div className={styles.gpt3__navbar_sign}>
-        <p><Link href="/Contact">Contact Us</Link></p>
+        <p><WhatsAppIcon className={styles.WhatsAppIcon} onClick={() => window.open('https://wa.me/919987851716')} style={{ fontSize: 50, alignContent: 'center', display: 'flex', marginRight: 15 }} /></p>
         <a href="https://docs.google.com/forms/u/0/d/e/1FAIpQLSdDXfBr5bJG8xEFa0O4VkkyKUM7yLuCw1iU7T-aHvV1_kV7RA/formResponse"><button type="button">Enroll</button></a>
       </div>
       <div className={styles.gpt3__navbar_menu}>
