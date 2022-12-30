@@ -2,6 +2,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import styles from './Navbar.module.css';
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
+import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import React, { useState } from 'react';
 
 function Navbar() {
