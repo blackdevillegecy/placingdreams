@@ -39,7 +39,7 @@ function Navbar() {
               <Link href="/Gallery"><p>Gallery</p></Link>
             </div>
             <div className={styles.gpt3__navbar_menu_container_links_sign}>
-              <p><Link href="/Contact">Contact Us</Link></p>
+              <p><WhatsAppIcon className={styles.WhatsAppIcon} onClick={() => window.open('https://wa.me/919987851716')} style={{ fontSize: 50, alignContent: 'center', display: 'flex', marginRight: 15 }} /></p>
               <Link href="/enroll"><button type="button">Enroll</button></Link>
             </div>
           </div>
