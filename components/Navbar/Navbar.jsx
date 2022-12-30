@@ -33,10 +33,10 @@ function Navbar() {
           <div className={[styles.gpt3__navbar_menu_container, styles.scale_up_center].join(" ")}>
             <div className={styles.gpt3__navbar_menu_container_links}>
               <p><a href="#header">Home</a></p>
-              <Link href="/Gallery"><p>Gallery</p></Link>
               <p><a href="#possibility">About Us</a></p>
               <Link href="/Course"><p>Courses</p></Link>
               <p><a href="#blog">Testimonials</a></p>
+              <Link href="/Gallery"><p>Gallery</p></Link>
             </div>
             <div className={styles.gpt3__navbar_menu_container_links_sign}>
               <p><Link href="/Contact">Contact Us</Link></p>
