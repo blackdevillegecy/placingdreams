@@ -14,7 +14,7 @@ function Header() {
       </div>
 
       <div className={styles.gpt3__header_content__people}>
-        <p>More than 100 success stories says it all</p>
+        <p> </p>
       </div>
     </div>
     <div className={styles.gpt3__header_image}>

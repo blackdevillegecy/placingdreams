@@ -8,7 +8,7 @@ function Writing() {
     <Link href="\Course"><ArrowBackIcon style={{marginTop: '2vh', marginLeft: '2vh', color: 'white'}} /></Link>
     <div className="course_nav">
       <Link href="\Acting"><div className="courses_btn">Acting</div></Link>
-      <Link href="\Writing"><div className="courses_btn">Writing</div></Link>
+      <Link href="\Writing"><div className="courses_btn">Script Writing</div></Link>
       <Link href="\Editing"><div className="courses_btn">Video Editing</div></Link>
       <Link href="\Direction"><div className="courses_btn">Direction</div></Link>
       <Link href="\FilmMaking"><div className="courses_btn">Film Making</div></Link>
