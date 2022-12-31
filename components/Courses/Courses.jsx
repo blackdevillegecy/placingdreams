@@ -16,7 +16,7 @@ function Courses() {
         <div className={styles.gpt3__whatgpt3_container}>
           <Feature title="Acting" text="The most in-demand skill in the industry" link="/Acting" />
           <Feature title="Video Editing" text="Learn the intricate ways of presentation and refining of the content in the entertainment world" link="/Editing" />
-          <Feature title="Film Making" textcd ="Understand how to develop the 'vision' which is required to craft the once in a lifetime masterpieces" link="/FilmMaking" />
+          <Feature title="Film Making" text="Understand how to develop the 'vision' which is required to craft the once in a lifetime masterpieces" link="/FilmMaking" />
           <Feature title="Script Writing" text="Become the best in the wizardry of words and forge the classics the future generations will remember" link="/Writing" />  
           <Feature title="Direction" text="Create the holy grails and the magnum opus of the modern era with your creative powers and our technical know-how" link="/Direction" />
         </div>
