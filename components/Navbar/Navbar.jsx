@@ -13,7 +13,7 @@ function Navbar() {
       <div className={styles.gpt3__navbar_links}>
         <div className={styles.gpt3__navbar_links_container}>
           <a id={styles.logo} href="#header">
-            <Image src="/pd_logo.png" alt="" width="99" height="33" />
+            <Image src="/pd_logo.png" alt="image" width="99" height="33" />
           </a>
           <p><a href="#header">Home</a></p>
           <Link href="/Gallery"><p>Gallery</p></Link>

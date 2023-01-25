@@ -30,7 +30,7 @@ function Direction() {
                             Most students of placing dreams join the industry initially as assistant directors and work their way up towards the post of Directors. But there is no hard and fast rule about this and if the students has the capability they might well straightaway become a Director as soon as they pass out from placing dreams Film and Television institute .  The syllabus followed at the institute is handcrafted by the experts in the industry and tries to shed light on all the dark corners which might be left in the courses by other institutions.</p>
                      <br /><h1 className='main' style={{ background: 'linear-gradient(90deg, #EE82EE 0%, #00D1FF 100%)', backgroundClip: 'text', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>Syllabus<br /><br /></h1>
 
-                     <Image src="/features/direction.jpeg" alt="" width="700" height="350" />
+                     <Image src="/features/direction.jpeg" alt="image" width="700" height="350" />
                      <h4>Chapter 1</h4>
                      <p>•Know your Ambition<br />
                             •What is your Goal?<br /><br />

@@ -26,7 +26,7 @@ function FilmMaking() {
         To become a filmmaker, one typically needs to have a passion for storytelling and the ability to bring ideas to life on screen. Filmmaking also requires a certain level of technical expertise, as filmmakers need to understand how to use cameras, lighting, and other equipment to create their desired visual effects.
         Training and education are important for filmmakers, as they need to learn about the various disciplines involved in making films, as well as the technical skills required to use the equipment and software.
       </p><br/>
-       <Image src="/features/direction.jpeg" alt="" width="700" height="350" />
+       <Image src="/features/direction.jpeg" alt="image" width="700" height="350" />
                                    
     </div>
   );

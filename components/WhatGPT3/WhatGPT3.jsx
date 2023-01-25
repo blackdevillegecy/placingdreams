@@ -6,11 +6,11 @@ function WhatGPT3() {
   return (
     <div id={styles.gallery}>
       <div className={styles.img}>
-        <Image src='/wall_of_fame.jpg' alt="" width="900" height="500" />
+        <Image src='/wall_of_fame.jpg' alt="image" width="900" height="500" />
       </div>
       <div className={styles.img2}>
-        <Image src='/CERT/CERT1.jpg' alt="" width="500" height="700" />
-        <Image src='/CERT/CERT2.jpg' alt="" width="500" height="700" />
+        <Image src='/CERT/CERT1.jpg' alt="image" width="500" height="700" />
+        <Image src='/CERT/CERT2.jpg' alt="image" width="500" height="700" />
       </div>
       <div className={styles.textbelow}>
         <div style={{ textAlign: 'center' }}>Appreciation letter from Swinburne <br /> University Australia</div>

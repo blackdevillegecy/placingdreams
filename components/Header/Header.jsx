@@ -18,7 +18,7 @@ function Header() {
       </div>
     </div>
     <div className={styles.gpt3__header_image}>
-      <Image src='/home_neon.png' alt="" width="500" height="500" id="neon" />
+      <Image src='/home_neon.png' alt="image" width="500" height="500" id="neon" />
     </div>
   </div>
   );

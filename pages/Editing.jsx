@@ -35,7 +35,7 @@ In short, an editor is a vital member of the movie-making team. Their creativity
         esteemed mentors, who work tirelessly to bring out the best in the students. With the strictness of the schedule and the work load, there also comes the joy of sweet sweet success and hence, we always motivate our students to plant the seeds of hard work and discipline so that everyone of them could bear the fruit of success. The syllabus followed at the institute is handcrafted by the experts in the industry and tries to shed light on all the dark corners which might be left in the courses by other institutions.
       </p><br/>
       <h1 className='main' style={{background: 'linear-gradient(90deg, #EE82EE 0%, #00D1FF 100%)', backgroundClip: 'text', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}>Syllabus<br/><br/></h1>
-      <Image src="/features/editing.jpeg" alt="" width="700" height="350" />
+      <Image src="/features/editing.jpeg" alt="image" width="700" height="350" />
       <p>1. WHAT ‘EDITING’ IS?<br/><br/>
 2.HISTORY OF CINEMA & EDITING<br/><br/> 0
 3. ROLE OF EDITOR IN A FILM CREW<br/><br/>

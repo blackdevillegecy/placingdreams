@@ -30,7 +30,7 @@ function Writing() {
       beautiful and colorful cloud of ideas in their head into a well structured masterpiece. 
        The syllabus followed at the institute is handcrafted by the experts in the industry and tries to shed light on all the dark corners which might be left in the courses by other institutions.</p>
       <h1 className='main' style={{background: 'linear-gradient(90deg, #EE82EE 0%, #00D1FF 100%)', backgroundClip: 'text', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}>Syllabus<br/><br/></h1>
-    <Image src="/features/writing.jpg" alt="" width="700" height="350" />
+    <Image src="/features/writing.jpg" alt="image" width="700" height="350" />
     <p><br/>- WHAT IS A SCREENPLAY?<br/><br/>
 - AN OVERVIEW OF CREATIVE WRITING
 PROCESS<br/><br/>

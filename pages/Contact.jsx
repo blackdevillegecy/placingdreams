@@ -13,7 +13,7 @@ function Footer() {
 
     <div className={styles.gpt3__footer_links}>
       <div className={styles.gpt3__footer_links_logo}>
-        <Image src='/pd_logo.png' height="50" width="130" /><br />
+        <Image src='/pd_logo.png' height="50" width="130" alt="image" /><br />
         <a href='https://www.google.com/maps/dir/15.413152,73.9712484/placing+dreams'>Bunglow No. 2, 1st Floor, Devgans, 4 Bunglow,Andheri west, Mumbai <br /> All Rights Reserved</a>
       </div>
       <div className={styles.gpt3__footer_links_div}>
