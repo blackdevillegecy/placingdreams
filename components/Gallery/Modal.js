@@ -28,6 +28,7 @@ const Modal = ({
               className="h-5 w-5"
               viewBox="0 0 20 20"
               fill="currentColor"
+              alt="svg"
             >
               <path
                 fillRule="evenodd"
@@ -44,6 +45,7 @@ const Modal = ({
               className="h-5 w-5"
               viewBox="0 0 20 20"
               fill="currentColor"
+              alt="image"
             >
               <path
                 fillRule="evenodd"

@@ -12,7 +12,7 @@ function Editing() {
       <Link href="\Writing"><div className="courses_btn">Script Writing</div></Link>
       <Link href="\Editing"><div className="courses_btn">Video Editing</div></Link>
       <Link href="\Direction"><div className="courses_btn">Direction</div></Link>
-      <Link href="\FilmMaking"><div className="courses_btn">Film Making</div></Link>
+      <Link href="\FilmMaking"><div className="courses_btn">Film Making</div></Link>s
     </div>
     </div>
     <div className='overall'>
