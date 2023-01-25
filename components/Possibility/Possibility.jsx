@@ -5,7 +5,7 @@ function Possibility () {
   return (
   <div className={[styles.gpt3__possibility, styles.section__padding].join(" ")} id="possibility">
     <div className={styles.gpt3__possibility_image}>
-      <Image src="/possibility_neon.png" width="480" height="500" id="neon2" />
+      <Image src="/possibility_neon.png" width="480" height="500" id="neon2" alt="image" />
     </div>
     <div className={styles.gpt3__possibility_content}>
       <h4>But question yourself</h4>

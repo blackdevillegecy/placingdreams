@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import React from 'react';
 import styles from './Gallery.module.css';
 
@@ -16,7 +17,7 @@ const Modal = ({
   return (
     <>
       <div className={[styles.overlay, styles.dismiss].join(" ")} onClick={handleClick}>
-        <img src={clickedImg} alt="bigger pic" />
+        <Image src={clickedImg} alt="bigger pic" />
         <span className="dismiss" onClick={handleClick}>
           X
         </span>

@@ -1,6 +1,5 @@
 import '../styles/globals.css'
 import Head from 'next/head'
-import { Html } from 'next/document';
 
 export function reportWebVitals(metric) {
   console.log(metric);
@@ -9,7 +8,6 @@ export function reportWebVitals(metric) {
 function MyApp({ Component, pageProps }) {
   return (
     <div>
-      <Html lang='en'>
       <Head>
         <title>Placing Dreams</title>
         <meta
@@ -19,7 +17,6 @@ function MyApp({ Component, pageProps }) {
         />
         <link rel="icon" href="/static/favicon.ico" />
       </Head>
-      </Html>
       <Component {...pageProps} />
     </div>
   );
