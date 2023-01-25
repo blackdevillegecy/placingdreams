@@ -52,7 +52,7 @@ function Gallery() {
             type="button"
             src={item.link}
             onClick={() => handleClick(item, index)}
-          ><Image src={item.link} width="300" height="300" />
+          ><Image src={item.link} alt="image" width="300" height="300" />
           </button>
         </div>
       ))}
