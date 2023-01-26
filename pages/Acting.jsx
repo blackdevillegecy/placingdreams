@@ -34,7 +34,7 @@ function Acting() {
       industry and tries to shed light on all the dark corners which might be left in the courses by other institutions.
       </p>
       <h1 className='main' style={{background: 'linear-gradient(90deg, #EE82EE 0%, #00D1FF 100%)', backgroundClip: 'text', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}>Acting Syllabus<br/><br/></h1>
-      <Image src="/features/acting.jpeg" alt ='image' width="700" height="350" />
+      <Image src="/features/acting.jpeg" alt='image' width="700" height="350" />
       <h4> Module 1</h4>
       <p>
         introduction<br/><br/>
